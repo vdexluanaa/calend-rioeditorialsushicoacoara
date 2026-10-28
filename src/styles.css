@@ -17,3 +17,4 @@
 @media(max-width:800px){.house-note{grid-template-columns:1fr}.house-note>div{border-right:0;border-bottom:1px solid var(--line)}.house-note>div:last-child{border-bottom:0}.preview-card{height:290px}.production-block{padding-left:12px;padding-right:12px}}
 
 .direction-list{margin:0;padding:0 0 0 18px;color:var(--muted);font-size:13px;line-height:1.65}.direction-list li{margin:4px 0}.direction-list li::marker{color:var(--mint)}
+.strategy-work{margin-top:28px;padding-top:18px;border-top:1px solid var(--line)}.strategy-work>span{font:10px 'DM Mono',monospace;letter-spacing:.1em;color:var(--mint)}.strategy-work ul{margin:12px 0 0;padding-left:18px;color:var(--muted);font-size:13px;line-height:1.6}.strategy-work li{margin:6px 0}.strategy-work li::marker{color:var(--mint)}
